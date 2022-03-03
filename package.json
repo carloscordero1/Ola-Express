@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/carloscordero1/Ola-Express/issues"
   },
-  "homepage": "https://github.com/carloscordero1/Ola-Express#readme"
+  "homepage": "https://github.com/carloscordero1/Ola-Express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
